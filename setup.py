@@ -16,7 +16,7 @@ setup(
         ]
     },
     install_requires=[
-        "mitmproxy >= 0.9.2",
+        "mitmproxy == 0.9.2",
         "Werkzeug >= 0.9.4"
     ],
 )
